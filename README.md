@@ -29,6 +29,9 @@
 1. C++ STL中空间配置器/内存配置器的作用是什么？为什么要引入这种空间配置器？引入后其还存在什么样的问题？
 
    [Allocator1](https://www.cnblogs.com/xietianjiao/p/12344339.html "Go!") 
+2. malloc/calloc/realloc的功能是什么？有什么区别？
+   
+   [malloc-calloc-realloc](https://blog.csdn.net/qq_38810767/article/details/85265541 "Go!")   
 ### 操作系统相关知识
 ### 计算机网络相关知识
 ### 网络编程相关知识
