@@ -28,7 +28,7 @@
 ### C++相关知识
 1. C++ STL中空间配置器/内存配置器的作用是什么？为什么要引入这种空间配置器？引入后其还存在什么样的问题？
 
-[Allocator](https://www.cnblogs.com/xietianjiao/p/12344339.html "Go!") 
+   [Allocator1](https://www.cnblogs.com/xietianjiao/p/12344339.html "Go!") 
 ### 操作系统相关知识
 ### 计算机网络相关知识
 ### 网络编程相关知识
